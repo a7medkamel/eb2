@@ -32,8 +32,9 @@
 - [ ] g-clips for balcony floor grates
 http://www.gclips.com/gclips.html
 http://www.gclips.com/saddle-clips.html
+> these are cheap, but I can only find them in bulk quantity... I only need a dozen max
 - [ ] power plug in guest bathroom doesn't work
-- [ ] circuit braker (upstairs outlet, dining, ground floor) trips randomly and frequently
+- [ ] circuit breaker (upstairs outlet, dining, ground floor) trips randomly and frequently
 - [ ] entry way light
 - [ ] wrong size shower handle holder guest bathroom
 - [ ] two doors (to laundry and guest bathroom) don't close / latch (less during summer, more during other month)
