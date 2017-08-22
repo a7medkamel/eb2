@@ -28,6 +28,8 @@
 - [ ] missing bolt on hand rail to second floor
 - [ ] 2 stairs have finish removed (our fault) 1 stair was existing damage
 - [ ] install home address numbers (buy letter B)
+  - https://www.modernhousenumbers.com/collections/numbers-and-letters
+  - https://www.etsy.com/listing/474921936/4-modern-house-numbers-letters-brushed
 - [ ] plan out concrete slab for garbage area (+ talk with ahmed about fence)
 - [ ] g-clips for balcony floor grates
 http://www.gclips.com/gclips.html
