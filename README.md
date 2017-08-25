@@ -18,10 +18,6 @@
   - isolated the gap by blue taping a bunch of the trims, I will try to narrow down exactly under which trim the gap is
   > we might need to remove the trim anyway to install roller shades
 
-- [ ] garage door doesn't close fully on the left side
-  - garage door only closes 1/3 tries, meets resistance and goes back up, looks like it is twisting
-  > I contacted James, scheduled for Tuesday 22nd
-
 - [ ] 2 lines of grout in master shower are flaking
 - [ ] garage has lots of gaps in it
 - [ ] door bell rings on its own
@@ -41,6 +37,8 @@ http://www.gclips.com/saddle-clips.html
 - [ ] wrong size shower handle holder guest bathroom
 - [ ] two doors (to laundry and guest bathroom) don't close / latch (less during summer, more during other month)
 - [ ] verify that the balcony cable rails are taut enough to be per code (4 inch sphere can't pass through when stretched)
+- [ ] some painted areas are slightly different color (from last paint work done)
+- [ ] some drywalls beads are peeling, some from water damage, some on their own
 
 ## Secondary:
 
@@ -59,4 +57,9 @@ http://www.gclips.com/saddle-clips.html
 ## Other
 - [ ] missing 2 handles for built in cabinet
 - we can install a push mechanism
-- [ ] some areas have drywall plaster and no paint
+
+## Completed
+- [x] garage door doesn't close fully on the left side
+  - garage door only closes 1/3 tries, meets resistance and goes back up, looks like it is twisting
+  > I contacted James, scheduled for Tuesday 22nd
+- [x] some areas have drywall plaster and no paint
