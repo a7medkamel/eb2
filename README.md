@@ -34,7 +34,6 @@ http://www.gclips.com/saddle-clips.html
 - [ ] power plug in guest bathroom doesn't work
 - [ ] circuit breaker (upstairs outlet, dining, ground floor) trips randomly and frequently
 - [ ] entry way light
-- [ ] wrong size shower handle holder guest bathroom
 - [ ] two doors (to laundry and guest bathroom) don't close / latch (less during summer, more during other month)
 - [ ] verify that the balcony cable rails are taut enough to be per code (4 inch sphere can't pass through when stretched)
 - [ ] some painted areas are slightly different color (from last paint work done)
@@ -43,7 +42,6 @@ http://www.gclips.com/saddle-clips.html
 ## Secondary:
 
 - [ ] leaking shower handle in master tub
-- [ ] droopy shower handle in master tub
 - [ ] some light switches aren't correctly installer
 - [ ] laundry trim
 - [ ] trim missing for gas shutoff valve
@@ -59,6 +57,8 @@ http://www.gclips.com/saddle-clips.html
 - we can install a push mechanism
 
 ## Completed
+- [x] wrong size shower handle holder guest bathroom
+- [x] droopy shower handle in master tub
 - [x] garage door doesn't close fully on the left side
   - garage door only closes 1/3 tries, meets resistance and goes back up, looks like it is twisting
   > I contacted James, scheduled for Tuesday 22nd
