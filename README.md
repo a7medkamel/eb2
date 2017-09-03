@@ -41,9 +41,6 @@ http://www.gclips.com/saddle-clips.html
 - [ ] 2 lines of grout in master shower are flaking
 - [ ] garage has lots of gaps in it
 - [ ] door bell rings on its own
-- [ ] install home address numbers (buy letter B)
-  - https://www.modernhousenumbers.com/collections/numbers-and-letters
-  - https://www.etsy.com/listing/474921936/4-modern-house-numbers-letters-brushed
 
 ## Secondary:
 - [ ] missing bolt on hand rail to second floor
@@ -70,3 +67,6 @@ http://www.gclips.com/saddle-clips.html
   - garage door only closes 1/3 tries, meets resistance and goes back up, looks like it is twisting
   > I contacted James, scheduled for Tuesday 22nd
 - [x] some areas have drywall plaster and no paint
+- [x] install home address numbers (buy letter B)
+  - https://www.modernhousenumbers.com/collections/numbers-and-letters
+  - https://www.etsy.com/listing/474921936/4-modern-house-numbers-letters-brushed
