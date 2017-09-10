@@ -15,10 +15,6 @@
   - one in powder room
   - the window pains probably just need to be re-aligned within their frames
   - some windows are hard to close (baby room)
-- [ ] there is a gap in the windows in the master bedroom, either same misalignment as other windows or between window frame and house framing.
-  - it is hidden behind the fir trims
-  - gap was letting in flys
-  - isolated the gap by blue taping a bunch of the trims, I will try to narrow down exactly under which trim the gap is
 
 ### Electric
 - [ ] power plug in guest bathroom doesn't work
@@ -26,7 +22,7 @@
 
 ### Paint
 - [ ] some painted areas are slightly different color (from last paint work done)
-- [ ] some drywalls beads are peeling, some from water damage, some on their own
+- [ ] some drywalls beads are peeling, some from water damage, some on their own (nails poping)
 
 ### Balcony
 - [ ] verify that the balcony cable rails are taut enough to be per code (4 inch sphere can't pass through when stretched)
@@ -58,7 +54,6 @@ http://www.gclips.com/saddle-clips.html
 ## Other
 - [ ] missing 2 handles for built in cabinet
   - we can install a push mechanism
-- [ ] plan out concrete slab for garbage area (+ talk with ahmed about fence)
 
 ## Completed
 - [x] wrong size shower handle holder guest bathroom
@@ -67,6 +62,13 @@ http://www.gclips.com/saddle-clips.html
   - garage door only closes 1/3 tries, meets resistance and goes back up, looks like it is twisting
   > I contacted James, scheduled for Tuesday 22nd
 - [x] some areas have drywall plaster and no paint
+- [x] plan out concrete slab for garbage area (+ talk with ahmed about fence)
 - [x] install home address numbers (buy letter B)
   - https://www.modernhousenumbers.com/collections/numbers-and-letters
   - https://www.etsy.com/listing/474921936/4-modern-house-numbers-letters-brushed
+
+## Defered
+- [ ] there is a gap in the windows in the master bedroom, either same misalignment as other windows or between window frame and house framing.
+  - it is hidden behind the fir trims
+  - gap was letting in flys
+  - isolated the gap by blue taping a bunch of the trims, I will try to narrow down exactly under which trim the gap is
