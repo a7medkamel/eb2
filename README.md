@@ -33,9 +33,9 @@ http://www.gclips.com/saddle-clips.html
 
 ### Misc
 - [ ] entry way light
-- [ ] two doors (to laundry and guest bathroom) don't close / latch (less during summer, more during other month)
+- [ ] laundry room door doesn't close / latch (less during summer, more during other month)
 - [ ] 2 lines of grout in master shower are flaking
-- [ ] garage has lots of gaps in it
+- [~] garage has lots of gaps in it
 - [ ] door bell rings on its own
 
 ## Secondary:
@@ -43,7 +43,6 @@ http://www.gclips.com/saddle-clips.html
 - [ ] leaking shower handle in master tub
 - [ ] some light switches aren't correctly installer
 - [ ] laundry trim
-- [ ] trim missing for gas shutoff valve
 - [ ] powder room door needs a little sanding / finish (there is a large X mark on it)
 
 ## Information
@@ -56,6 +55,7 @@ http://www.gclips.com/saddle-clips.html
   - we can install a push mechanism
 
 ## Completed
+- [x] trim missing for gas shutoff valve
 - [x] wrong size shower handle holder guest bathroom
 - [x] droopy shower handle in master tub
 - [x] garage door doesn't close fully on the left side
@@ -66,6 +66,7 @@ http://www.gclips.com/saddle-clips.html
 - [x] install home address numbers (buy letter B)
   - https://www.modernhousenumbers.com/collections/numbers-and-letters
   - https://www.etsy.com/listing/474921936/4-modern-house-numbers-letters-brushed
+- [x] guest bathroom doesn't close / latch (less during summer, more during other month)
 
 ## Defered
 - [ ] there is a gap in the windows in the master bedroom, either same misalignment as other windows or between window frame and house framing.
