@@ -1,6 +1,10 @@
 # EB2
 
+
 ## TODO
+
+[ ] Look at inspection report with Ahmed
+
 ### Floor
 - [ ] leak in radiant system in living room
   - fix leak
@@ -37,13 +41,7 @@ http://www.gclips.com/saddle-clips.html
 - [ ] 2 lines of grout in master shower are flaking
 - [~] garage has lots of gaps in it
 - [ ] door bell rings on its own
-
-## Secondary:
-- [ ] missing bolt on hand rail to second floor
 - [ ] leaking shower handle in master tub
-- [ ] some light switches aren't correctly installer
-- [ ] laundry trim
-- [ ] powder room door needs a little sanding / finish (there is a large X mark on it)
 
 ## Information
 - [ ] need paint codes for all the colors used
@@ -52,7 +50,11 @@ http://www.gclips.com/saddle-clips.html
 
 ## Other
 - [ ] missing 2 handles for built in cabinet
-  - we can install a push mechanism
+  - we can install a push mechanism [I'll buy some from Ikea]
+- [ ] missing bolt on hand rail to second floor
+- [ ] some light switches aren't correctly installer
+- [ ] laundry trim
+- [ ] powder room door needs a little sanding / finish (there is a large X mark on it)
 
 ## Completed
 - [x] trim missing for gas shutoff valve
