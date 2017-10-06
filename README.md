@@ -3,7 +3,7 @@
 
 ## TODO
 
-[ ] Look at inspection report with Ahmed
+- [ ] Look at inspection report with Ahmed
 
 ### Floor
 - [ ] leak in radiant system in living room
