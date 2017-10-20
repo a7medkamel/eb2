@@ -36,11 +36,10 @@ http://www.gclips.com/saddle-clips.html
 > these are cheap, but I can only find them in bulk quantity... I only need a dozen max
 
 ### Misc
-- [ ] entry way light
+- [ ] entry way light (track down replacement glass)
 - [ ] laundry room door doesn't close / latch (less during summer, more during other month)
 - [ ] 2 lines of grout in master shower are flaking
 - [~] garage has lots of gaps in it
-- [ ] door bell rings on its own
 - [ ] leaking shower handle in master tub
 
 ## Information
@@ -71,6 +70,7 @@ http://www.gclips.com/saddle-clips.html
 - [x] guest bathroom doesn't close / latch (less during summer, more during other month)
 
 ## Defered
+- [ ] door bell rings on its own
 - [ ] there is a gap in the windows in the master bedroom, either same misalignment as other windows or between window frame and house framing.
   - it is hidden behind the fir trims
   - gap was letting in flys
