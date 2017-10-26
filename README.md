@@ -3,7 +3,7 @@
 
 ## TODO
 
-- [ ] Look at inspection report with Ahmed
+- [x] Look at inspection report with Ahmed
 
 ### Floor
 - [ ] leak in radiant system in living room
@@ -26,7 +26,7 @@
 
 ### Paint
 - [ ] some painted areas are slightly different color (from last paint work done)
-- [ ] some drywalls beads are peeling, some from water damage, some on their own (nails poping)
+- [~] some drywalls beads are peeling, some from water damage, some on their own (nails poping)
 
 ### Balcony
 - [ ] verify that the balcony cable rails are taut enough to be per code (4 inch sphere can't pass through when stretched)
@@ -37,7 +37,7 @@ http://www.gclips.com/saddle-clips.html
 
 ### Misc
 - [ ] entry way light (track down replacement glass)
-- [ ] laundry room door doesn't close / latch (less during summer, more during other month)
+- [x] laundry room door doesn't close / latch (less during summer, more during other month)
 - [ ] 2 lines of grout in master shower are flaking
 - [~] garage has lots of gaps in it
 - [ ] leaking shower handle in master tub
