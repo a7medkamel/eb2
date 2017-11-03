@@ -7,7 +7,6 @@
 - [ ] leak in radiant system in living room
   - [~] fix leak
   - fix damaged hardwood
-- [ ] Squeeky floor between dining and living
 - [ ] 2 stairs have finish removed (our fault) 1 stair was existing damage
 
 ### Windows
@@ -20,7 +19,6 @@
 
 ### Electric
 - [ ] power plug in guest bathroom doesn't work
-- [ ] circuit breaker (upstairs outlet, dining, ground floor) trips randomly and frequently
 
 ### Paint
 - [ ] some painted areas are different color (3 diff colors). there is original paint, post water leak paint, and post bead repair paint
@@ -72,6 +70,8 @@ http://www.gclips.com/saddle-clips.html
 
 ## Defered
 - [ ] door bell rings on its own
+- [ ] Squeeky floor between dining and living
+- [ ] circuit breaker (upstairs outlet, dining, ground floor) trips randomly and frequently
 - [ ] there is a gap in the windows in the master bedroom, either same misalignment as other windows or between window frame and house framing.
   - it is hidden behind the fir trims
   - gap was letting in flys
