@@ -3,11 +3,9 @@
 
 ## TODO
 
-- [x] Look at inspection report with Ahmed
-
 ### Floor
 - [ ] leak in radiant system in living room
-  - fix leak
+  - [~] fix leak
   - fix damaged hardwood
 - [ ] Squeeky floor between dining and living
 - [ ] 2 stairs have finish removed (our fault) 1 stair was existing damage
@@ -25,8 +23,7 @@
 - [ ] circuit breaker (upstairs outlet, dining, ground floor) trips randomly and frequently
 
 ### Paint
-- [ ] some painted areas are slightly different color (from last paint work done)
-- [~] some drywalls beads are peeling, some from water damage, some on their own (nails poping)
+- [ ] some painted areas are different color (3 diff colors). there is original paint, post water leak paint, and post bead repair paint
 
 ### Balcony
 - [ ] verify that the balcony cable rails are taut enough to be per code (4 inch sphere can't pass through when stretched)
@@ -37,15 +34,16 @@ http://www.gclips.com/saddle-clips.html
 
 ### Misc
 - [ ] entry way light (track down replacement glass)
-- [x] laundry room door doesn't close / latch (less during summer, more during other month)
 - [ ] 2 lines of grout in master shower are flaking
 - [~] garage has lots of gaps in it
 - [ ] leaking shower handle in master tub
 
 ## Information
-- [ ] need paint codes for all the colors used
-  - paint code for white paint
-  - paint code for blue paint
+- need paint codes for all the colors used
+  - [x] paint code for white paint
+  - [ ] paint code for blue paint
+  - [x] light blue paint
+  - [x] black paint
 
 ## Other
 - [ ] missing 2 handles for built in cabinet
@@ -56,6 +54,9 @@ http://www.gclips.com/saddle-clips.html
 - [ ] powder room door needs a little sanding / finish (there is a large X mark on it)
 
 ## Completed
+- [x] Look at inspection report with Ahmed
+- [x] some drywalls beads are peeling, some from water damage, some on their own (nails poping)
+- [x] laundry room door doesn't close / latch (less during summer, more during other month)
 - [x] trim missing for gas shutoff valve
 - [x] wrong size shower handle holder guest bathroom
 - [x] droopy shower handle in master tub
