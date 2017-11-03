@@ -44,10 +44,7 @@ http://www.gclips.com/saddle-clips.html
   - [x] black paint
 
 ## Other
-- [ ] missing 2 handles for built in cabinet
-  - we can install a push mechanism [I'll buy some from Ikea]
 - [ ] missing bolt on hand rail to second floor
-- [ ] some light switches aren't correctly installer
 - [ ] laundry trim
 - [ ] powder room door needs a little sanding / finish (there is a large X mark on it)
 
@@ -69,6 +66,9 @@ http://www.gclips.com/saddle-clips.html
 - [x] guest bathroom doesn't close / latch (less during summer, more during other month)
 
 ## Defered
+- [ ] some light switches aren't correctly installer
+- [ ] missing 2 handles for built in cabinet
+  - we can install a push mechanism [I'll buy some from Ikea]
 - [ ] door bell rings on its own
 - [ ] Squeeky floor between dining and living
 - [ ] circuit breaker (upstairs outlet, dining, ground floor) trips randomly and frequently
