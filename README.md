@@ -44,11 +44,11 @@ http://www.gclips.com/saddle-clips.html
   - [x] black paint
 
 ## Other
-- [ ] missing bolt on hand rail to second floor
 - [ ] laundry trim
 - [ ] powder room door needs a little sanding / finish (there is a large X mark on it)
 
 ## Completed
+- [x] missing bolt on hand rail to second floor
 - [x] Look at inspection report with Ahmed
 - [x] some drywalls beads are peeling, some from water damage, some on their own (nails poping)
 - [x] laundry room door doesn't close / latch (less during summer, more during other month)
