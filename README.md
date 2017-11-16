@@ -1,6 +1,5 @@
 # EB2
 
-
 ## TODO
 
 ### Floor
@@ -8,14 +7,6 @@
   - [~] fix leak
   - fix damaged hardwood
 - [ ] 2 stairs have finish removed (our fault) 1 stair was existing damage
-
-### Windows
-- [ ] 4 windows are misaligned, leading to a visible air gap (lets insects and air come in)
-  - one in kitchen
-  - one in upstairs hallway
-  - one in powder room
-  - the window pains probably just need to be re-aligned within their frames
-  - some windows are hard to close (baby room)
 
 ### Electric
 - [ ] power plug in guest bathroom doesn't work
@@ -65,6 +56,14 @@ http://www.gclips.com/saddle-clips.html
   - https://www.etsy.com/listing/474921936/4-modern-house-numbers-letters-brushed
 - [x] guest bathroom doesn't close / latch (less during summer, more during other month)
 
+### Windows
+- [x] 4 windows are misaligned, leading to a visible air gap (lets insects and air come in)
+  - one in kitchen
+  - one in upstairs hallway
+  - one in powder room
+  - the window pains probably just need to be re-aligned within their frames
+  - some windows are hard to close (baby room)
+  
 ## Defered
 - [ ] some light switches aren't correctly installer
 - [ ] missing 2 handles for built in cabinet
