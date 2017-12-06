@@ -10,9 +10,7 @@
 
 ### Electric
 - [ ] power plug in guest bathroom doesn't work
-
-### Paint
-- [ ] some painted areas are different color (3 diff colors). there is original paint, post water leak paint, and post bead repair paint
+  - tried replacing the socket, didn't work (problem might be elsewhere in the circuit)
 
 ### Balcony
 - [ ] verify that the balcony cable rails are taut enough to be per code (4 inch sphere can't pass through when stretched)
@@ -23,6 +21,8 @@ http://www.gclips.com/saddle-clips.html
 
 ### Misc
 - [ ] entry way light (track down replacement glass)
+  - unable to find glass / factory contact
+  - order a replacmeent pendant
 - [ ] 2 lines of grout in master shower are flaking
 - [~] garage has lots of gaps in it
 - [ ] leaking shower handle in master tub
@@ -33,10 +33,6 @@ http://www.gclips.com/saddle-clips.html
   - [ ] paint code for blue paint
   - [x] light blue paint
   - [x] black paint
-
-## Other
-- [ ] laundry trim
-- [ ] powder room door needs a little sanding / finish (there is a large X mark on it)
 
 ## Completed
 - [x] missing bolt on hand rail to second floor
@@ -55,6 +51,11 @@ http://www.gclips.com/saddle-clips.html
   - https://www.modernhousenumbers.com/collections/numbers-and-letters
   - https://www.etsy.com/listing/474921936/4-modern-house-numbers-letters-brushed
 - [x] guest bathroom doesn't close / latch (less during summer, more during other month)
+- [x] missing 2 handles for built in cabinet
+  - we can install a push mechanism [I'll buy some from Ikea]
+  
+### Paint
+- [x] some painted areas are different color (3 diff colors). there is original paint, post water leak paint, and post bead repair paint
 
 ### Windows
 - [x] 4 windows are misaligned, leading to a visible air gap (lets insects and air come in)
@@ -66,8 +67,6 @@ http://www.gclips.com/saddle-clips.html
   
 ## Defered
 - [ ] some light switches aren't correctly installer
-- [ ] missing 2 handles for built in cabinet
-  - we can install a push mechanism [I'll buy some from Ikea]
 - [ ] door bell rings on its own
 - [ ] Squeeky floor between dining and living
 - [ ] circuit breaker (upstairs outlet, dining, ground floor) trips randomly and frequently
@@ -75,3 +74,5 @@ http://www.gclips.com/saddle-clips.html
   - it is hidden behind the fir trims
   - gap was letting in flys
   - isolated the gap by blue taping a bunch of the trims, I will try to narrow down exactly under which trim the gap is
+- [ ] laundry trim
+- [ ] powder room door needs a little sanding / finish (there is a large X mark on it)
