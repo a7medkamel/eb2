@@ -1,12 +1,13 @@
 # EB2
 
-## TODO
+## TODO John
 
 ### Floor
-- [ ] leak in radiant system in living room
-  - [~] fix leak
-  - fix damaged hardwood
-- [ ] 2 stairs have finish removed (our fault) 1 stair was existing damage
+- [x] leak in radiant system in living room
+  - [x] fix leak
+  - [x] fix damaged hardwood
+  - [ ] fix discolored flooring
+- [x] 2 stairs have finish removed (our fault) 1 stair was existing damage
 
 ### Electric
 - [ ] power plug in guest bathroom doesn't work
@@ -14,18 +15,13 @@
 
 ### Balcony
 - [ ] verify that the balcony cable rails are taut enough to be per code (4 inch sphere can't pass through when stretched)
-- [ ] g-clips for balcony floor grates
-http://www.gclips.com/gclips.html
-http://www.gclips.com/saddle-clips.html
-> these are cheap, but I can only find them in bulk quantity... I only need a dozen max
 
 ### Misc
 - [ ] entry way light (track down replacement glass)
   - unable to find glass / factory contact
   - order a replacmeent pendant
-- [ ] 2 lines of grout in master shower are flaking
-- [~] garage has lots of gaps in it
 - [ ] leaking shower handle in master tub
+- Laundry room window wood trim is not screwed to wall
 
 ## Information
 - need paint codes for all the colors used
@@ -33,8 +29,11 @@ http://www.gclips.com/saddle-clips.html
   - [ ] paint code for blue paint
   - [x] light blue paint
   - [x] black paint
+  - [ ] stain for hardwood and sealer
 
 ## Completed
+- [x] 2 lines of grout in master shower are flaking
+- [x] garage has lots of gaps in it
 - [x] missing bolt on hand rail to second floor
 - [x] Look at inspection report with Ahmed
 - [x] some drywalls beads are peeling, some from water damage, some on their own (nails poping)
@@ -66,6 +65,10 @@ http://www.gclips.com/saddle-clips.html
   - some windows are hard to close (baby room)
   
 ## Defered
+- [ ] g-clips for balcony floor grates
+http://www.gclips.com/gclips.html
+http://www.gclips.com/saddle-clips.html
+> these are cheap, but I can only find them in bulk quantity... I only need a dozen max
 - [ ] some light switches aren't correctly installer
 - [ ] door bell rings on its own
 - [ ] Squeeky floor between dining and living
