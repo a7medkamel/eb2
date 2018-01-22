@@ -13,6 +13,9 @@
 - [ ] power plug in guest bathroom doesn't work
   - tried replacing the socket, didn't work (problem might be elsewhere in the circuit)
 
+### Garage Door
+- [ ] Same problem as last time, door is twisting, found the piece of metal that got dislodged
+
 ### Balcony
 - [ ] verify that the balcony cable rails are taut enough to be per code (4 inch sphere can't pass through when stretched)
 
