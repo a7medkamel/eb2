@@ -18,10 +18,11 @@
 
 ### Misc
 - [ ] entry way light (track down replacement glass)
-  - unable to find glass / factory contact
-  - order a replacmeent pendant
+  - x unable to find glass / factory contact
+  - x order a replacmeent pendant
+  - [ ] install the one we bought
 - [ ] leaking shower handle in master tub
-- Laundry room window wood trim is not screwed to wall
+- [ ] Laundry room window wood trim is not screwed to wall
 
 ## Information
 - need paint codes for all the colors used
